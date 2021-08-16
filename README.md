@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Mobile
 
-<img src="Screenshot/Mobile-screenshot.png" alt="Mobile">
+<img src="Screenshot/Mobile-screenshot.png" alt="Mobile" height="600">
 
 
 ## My process
@@ -40,4 +40,4 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Scss @mixin
-- Mobile-first 
+- Mobile-first
