@@ -23,11 +23,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-## Desktop
+#### Desktop
 <img src="Screenshot/Desktop-screenshot.png" alt="Desktop-screenshot">
 
 
-## Mobile
+#### Mobile
 
 <img src="Screenshot/Mobile-screenshot.png" alt="Mobile" height="600">
 
