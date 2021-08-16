@@ -24,12 +24,12 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ##Desktop
-![Desktop](sreenshot/Desktop.png);
+![Desktop](sreenshot/Desktop.png)
 
 
 ##Mobile
 
-![Mobile](sreenshot/Mobile.png);
+![Mobile](sreenshot/Mobile.png)
 
 
 ## My process
