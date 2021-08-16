@@ -24,7 +24,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ##Desktop
-<img src="Screenshot/Desktop-screenshot.png" alt="Desktop">
+<img src="Screenshot/Desktop-screenshot.png" alt="Desktop-screenshot">
 
 
 ##Mobile
